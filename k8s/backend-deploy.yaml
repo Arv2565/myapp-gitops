@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: arv2565/myapp-backend:initial
+          image: arv2565/myapp-backend:ca169c0
           ports:
             - containerPort: 3000
 
